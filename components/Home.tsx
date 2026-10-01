@@ -42,7 +42,7 @@ export default function Home() {
           محاضرات، مختبرات، ملخصات وبنك أسئلة لكل مواد المرحلة الثالثة في مكان واحد.
         </p>
         <div className="mt-6 flex flex-wrap gap-3">
-          <a href="https://t.me/svoo3" className="glass flex items-center gap-2 rounded-full px-5 py-2.5 shadow-[0_0_24px_#0088cc55]">
+          <a href="https://t.me/svoo3" target="_blank" rel="noopener noreferrer" className="glass flex items-center gap-2 rounded-full px-5 py-2.5 shadow-[0_0_24px_#0088cc55]">            
             <Send className="h-5 w-5" style={{ color: "#0088cc" }} />
             <span className="font-bold" style={{ color: "#0088cc" }}>الباقر</span>
           </a>
